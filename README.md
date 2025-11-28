@@ -1,29 +1,54 @@
-# C++ Projects Repository
+# C++ & Java OOP Projects Repository
 
-👋 Welcome to my C++ Projects Repository!   
-This repository contains a collection of C++ projects that I built for practice, learning, and academic purposes.
+👋 Welcome to my **C++ & Java Projects Repository!**  
+This repository contains a collection of Object-Oriented Programming (OOP) projects built using both **C++** and **Java**, created for learning, practice, and academic purposes.
 
-##  Folder Structure
+---
+
+## 📂 Folder Structure
 
 Each project is organized in its own folder and includes:
 
-- `main.cpp`: The entry point of the project.
-- `.h` and `.cpp` files: Organized by class for modularity.
-- Optional `README.md`: Explaining the individual project.
+### 🔹 For C++ Projects
+- `main.cpp`: The entry point of the project  
+- `.h` and `.cpp` files: Well-structured and separated by classes  
+- Optional `README.md`: Explaining the individual project  
 
-##  Concepts Covered
+### 🔹 For Java Projects
+- `Main.java` or project-specific entry file  
+- Classes separated into their own `.java` files  
+- Optional `README.md` for project documentation  
 
-These projects cover a wide range of C++ topics, including:
+---
 
-- Object-Oriented Programming (OOP)
-- Inheritance & Polymorphism
-- Encapsulation & Abstraction
-- STL (Standard Template Library)
-- Basic Data Structures
-- Algorithms & Problem Solving
+## 🧠 Concepts Covered
 
-##  Technologies Used
+These projects cover a wide range of programming concepts, including:
 
-- Language: C++
-- IDEs: Visual Studio / VS Code
-- Build System: g++ / MSVC
+### 🔸 C++ Concepts
+- Object-Oriented Programming (OOP)  
+- Inheritance & Polymorphism  
+- Encapsulation & Abstraction  
+- STL (Standard Template Library)  
+- Basic Data Structures  
+- Algorithms & Problem Solving  
+
+### 🔸 Java Concepts
+- Object-Oriented Programming (OOP)  
+- Classes, Objects, and Packages  
+- Inheritance, Polymorphism, Abstraction, Encapsulation  
+- Collections Framework  
+- Exception Handling  
+- File Handling  
+- Basic Algorithms & Problem-Solving  
+
+---
+
+## 🛠️ Technologies Used
+
+- **Languages:** C++ & Java  
+- **IDEs:** Visual Studio / VS Code / IntelliJ IDEA / Eclipse  
+- **Build Tools:** g++, MSVC, Java Compiler (javac)
+
+---
+
